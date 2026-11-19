@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.Rhistory
+.RData
+Rplots.pdf
+# inputs and outputs of the experiments (see README.md)
+experiments/unzips/
+experiments/cache/
+experiments/data/
+experiments/rcpp_cache/
